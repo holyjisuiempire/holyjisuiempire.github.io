@@ -417,7 +417,7 @@ header .inner {
 }
 /*トップページのinnner*/
 #top header .inner {
-	background: url(../images/header_bg.png) no-repeat left bottom/50%;
+	background: url(../images/header_bg.png) no-repeat bottom/50%;
 }
 /*ロゴ画像*/
 header #logo {
